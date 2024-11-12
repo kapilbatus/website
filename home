@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Creative Director | Kapil Batus</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Kapil Batus</h1>
+    <p>Creative Director | Brand Strategist | Fashion Specialist</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#portfolio">Portfolio</a>
+      <a href="#services">Services</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>With over 20 years of experience in media and luxury, I have led creative directions for leading brands globally. Specialized in fashion, brand building, and strategy, I have a track record in both revenue generation and brand development.</p>
+  </section>
+
+  <section id="portfolio">
+    <h2>Portfolio</h2>
+    <div class="portfolio-item">
+      <img src="portfolio1.jpg" alt="Fashion Campaign 1">
+      <p>Fashion Campaign for Metro Shoes</p>
+    </div>
+    <div class="portfolio-item">
+      <img src="portfolio2.jpg" alt="Luxury Brand Collaboration">
+      <p>Luxury Brand Collaboration with Louis Vuitton</p>
+    </div>
+  </section>
+
+  <section id="services">
+    <h2>Services</h2>
+    <ul>
+      <li>Brand Strategy</li>
+      <li>Creative Direction</li>
+      <li>Production & Conceptualization</li>
+      <li>Campaign Development</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Email: kapilbatus@gmail.com</p>
+    <p>Phone: 9819380036</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2024 Kapil Batus. All rights reserved.</p>
+  </footer>
+</body>
+</html>
